@@ -1,0 +1,4 @@
+.env
+*.loh
+/vendor/
+config.local.php
